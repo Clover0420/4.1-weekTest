@@ -1,0 +1,26 @@
+body {
+    background: #fc3669
+}
+
+.tabs {
+    width: 100%;
+    display: flex;
+    position: absolute;
+    top: 45px;
+    height: 30px;
+    justify-content: space-around;
+}
+
+.btn {
+    height: 30px;
+    line-height: 30px;
+}
+
+.list {
+    position: absolute;
+    top: 80px;
+}
+
+.list li {
+    padding: 10px;
+}
